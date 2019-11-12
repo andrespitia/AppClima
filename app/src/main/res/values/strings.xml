@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="bienvenida">Bienvenido a la App del clima</string>
+    <string name="ciudad">Seleccione la ciudad</string>
+    <string name="Bogota">Bogota</string>
+    <string name="Tunja">Tunja</string>
+</resources>
